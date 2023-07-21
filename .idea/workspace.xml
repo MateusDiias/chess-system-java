@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c1806f5e-c7a1-4b3b-b8e6-d6dc59d154e2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chess-system-java/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system-java/application/Program.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardgame/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Position.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -66,7 +70,9 @@
       <workItem from="1689860281203" duration="233000" />
       <workItem from="1689860534262" duration="239000" />
       <workItem from="1689860797444" duration="352000" />
-      <workItem from="1689861671360" duration="2601000" />
+      <workItem from="1689861671360" duration="8439000" />
+      <workItem from="1689870343523" duration="288000" />
+      <workItem from="1689877499589" duration="1027000" />
     </task>
     <servers />
   </component>
