@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c1806f5e-c7a1-4b3b-b8e6-d6dc59d154e2" name="Changes" comment="Implementing possible moves of Rook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chess-system-java/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system-java/application/Program.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
@@ -82,7 +83,7 @@
       <workItem from="1690461854955" duration="600000" />
       <workItem from="1690897349718" duration="3952000" />
       <workItem from="1690919111984" duration="5000000" />
-      <workItem from="1691000836506" duration="2407000" />
+      <workItem from="1691000836506" duration="3927000" />
     </task>
     <task id="LOCAL-00001" summary="Possible moves of a piece">
       <created>1690900639177</created>
